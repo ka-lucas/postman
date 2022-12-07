@@ -2,4 +2,4 @@
 Projeto programadores cariocas utilizando Postman e json. Esse projeto consiste na criação de rota e utilização de metodos PUT,POST,GET e DELETE.
 
 # Link Postman
-https://web.postman.co/workspace/My-Workspace~5f10a6c4-ea06-400a-80e1-81282713953e/documentation/24685271-25a1a8d7-bcdc-488f-9851-c97a8ed31b1f
+https://www.postman.com/science-physicist-75806148/workspace/trabalho-individual/documentation/24685271-c7cb0efe-2921-42ad-857a-1bbec8c2f74d
