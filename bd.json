@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "produto": "arroz",
+      "quantidade": 1,
+      "valor": 4.99,
+      "id": 1
+    },
+    {
+      "produto": "feijao",
+      "quantidade": 1,
+      "valor": 3,
+      "id": 2
+    },
+    {
+      "produto": "leite",
+      "quantidade": 2,
+      "valor": 2.99,
+      "id": 3
+    },
+    {
+      "produto": "azeite",
+      "quantidade": 5,
+      "valor": 10,
+      "id": 4
+    },
+    {
+      "produto": "azeite",
+      "quantidade": 5,
+      "valor": 10,
+      "id": 4
+    },
+    {
+      "produto": "nescau",
+      "quantidade": 10,
+      "valor": 4.99,
+      "id": 5
+    }
+  ]
+}
